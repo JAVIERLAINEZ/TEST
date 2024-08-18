@@ -1,4 +1,7 @@
 <h1>Test sist de reg</h1>
 
-- Estao el proyecto en construccion.
-- 
+- Estado el proyecto en construccion.
+
+Para ejecutar el sistema debes correr:
+
+´´´npm install react´´´
